@@ -33,5 +33,3 @@ class Rectangle(BaseGeometry):
         """
         return "[Rectangle]
  {:d}/{:d}".format(self.__width, self.__height)
-Footer
-
