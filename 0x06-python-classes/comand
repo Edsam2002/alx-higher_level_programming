@@ -1,0 +1,12 @@
+#!/bin/bash
+touch 0-square.py
+touch 1-square.py
+touch 100-singly_linked_list.py
+touch 101-square.py
+touch 102-square.py
+touch 103-magic_class.py
+touch 2-square.py
+touch 3-square.py
+touch 4-square.py
+touch 5-square.py
+touch 6-square.py
