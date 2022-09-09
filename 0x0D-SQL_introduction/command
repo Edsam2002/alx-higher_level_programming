@@ -1,0 +1,18 @@
+#!/bin/bash
+touch 16-no_link.sql
+touch 15-groups.sql
+touch 14-average.sql
+touch 13-change_class.sql
+touch 12-no_cheating.sql
+touch 11-best_score.sql
+touch 10-top_score.sql
+touch 9-full_creation.sql
+touch 8-count_89.sql
+touch 7-insert_value.sql
+touch 6-list_values.sql
+touch 5-full_table.sql
+touch 4-first_table.sql
+touch 3-list_tables.sql
+touch 2-remove_database.sql
+touch 1-create_database_if_missing.sql
+touch 0-list_databases.sql
