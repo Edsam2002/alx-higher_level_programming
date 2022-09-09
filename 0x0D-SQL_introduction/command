@@ -16,3 +16,7 @@ touch 3-list_tables.sql
 touch 2-remove_database.sql
 touch 1-create_database_if_missing.sql
 touch 0-list_databases.sql
+touch 100-move_to_utf8.sql
+touch 101-avg_temperatures.sql
+touch 102-top_city.sql
+touch 103-max_state.sql
